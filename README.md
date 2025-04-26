@@ -3,7 +3,7 @@
 A simple ETL pipeline built with Apache Airflow and Docker Compose. It extracts data from public APIs, transforms it using Python, and logs the results.
 The project runs locally with PostgreSQL as the metadata database and showcases a modular Airflow setup for automating data workflows.
 
-🚀 Project Features
+##🚀 Project Features
 
 📡 Data Extraction from public APIs (e.g., weather or astronaut data)
 
@@ -20,7 +20,7 @@ The project runs locally with PostgreSQL as the metadata database and showcases 
 
 
 
-📦 Tech Stack
+##📦 Tech Stack
 
 Apache Airflow 2.8.1 (Python 3.10)
 
