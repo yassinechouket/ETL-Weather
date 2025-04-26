@@ -22,8 +22,8 @@ The project runs locally with PostgreSQL as the metadata database and showcases 
 
 # 📦 Tech Stack
 
-Apache Airflow 2.8.1 (Python 3.10)
+-Apache Airflow 2.8.1 (Python 3.10)
 
-Docker & Docker Compose
+-Docker & Docker Compose
 
-PostgreSQL
+-PostgreSQL
